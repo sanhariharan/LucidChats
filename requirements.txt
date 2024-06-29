@@ -1,0 +1,4 @@
+langchain
+langchain_community
+streamlit~=1.36.0
+pyttsx3~=2.90
