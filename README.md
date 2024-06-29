@@ -3,7 +3,7 @@
 
 # LUCID CHAT's🤖
 
-It is type of a chatgpt clone which is made with the of mistral ai imported from ollama local host server , this chatmodel's frontend is basically done with streamlit framework.
+It is a chatgpt clone which is made with the of mistral ai imported from ollama local host server , this chatmodel's frontend is basically done with streamlit framework.
 
 
 
