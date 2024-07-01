@@ -5,6 +5,8 @@
 
 It is a chatgpt clone which is made with the help of mistral ai imported from ollama local host server , this chat model's frontend is done with streamlit framework.
 
+## SCREENSHOT
+![Lucid](LUCID2.png)
 
 
 ## Tech Stack
